@@ -1,4 +1,3 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Flash-Chat
 
@@ -18,14 +17,12 @@ end
 
 One of the most fundamental component of modern iOS apps is the Table View. Table Views are used everywhere from the Mail app to the Messages app. It’s a crucial part of every iOS developer’s tool belt. In this tutorial we’ll be getting to grips with Table Views, creating custom cells, and making our own cloud-based backend database. It’s going to be epic, so buckle up.
 
-## What you will create
+## What I will created
 
 Flash Chat is an internet based messaging app similar to WhatsApp, the popular messaging app that was bought by Facebook for $22 billion. We will be using a service called Firebase as a backend data server to store and retrieve our messages from the cloud. 
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/Flash%20Chat.gif)
 
-
-## What you will learn
+## What I will learnt
 
 * How to integrate third party libraries in your app.
 * How to store data in the cloud using Firebase.
