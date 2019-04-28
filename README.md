@@ -3,6 +3,8 @@
 
 A Firebase App that communicates with the server in realtime.Two Users Can chat with each other and updates are on both devices.Used Custom Cells for Table Views
 
+## Screenshots
+
 | Screenshot 1 | Screenshot 2 |
 |:----------------------:|:------------:|
 | ![photo](https://user-images.githubusercontent.com/44671239/56310222-ff589800-6168-11e9-9801-911c94bd304e.png) | ![photo](https://user-images.githubusercontent.com/44671239/56310223-ff589800-6168-11e9-94f8-ee4f5cab5e5a.png) |
